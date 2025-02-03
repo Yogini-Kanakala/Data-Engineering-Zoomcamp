@@ -131,9 +131,7 @@ During the period of October 1st 2019 (inclusive) and November 1st 2019 (exclusi
 4. In between 7 (exclusive) and 10 miles (inclusive),
 5. Over 10 miles 
 
-Answers:
-
-- 104,802;  198,924;  109,603;  27,678;  35,189
+**Answers:** 104,802;  198,924;  109,603;  27,678;  35,189
 
 
 
